@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "CCO",
+        "tempo": "4 anos",
+        "periodo": "integral"
+    },
+    {
+        "id": 2,
+        "nome": "ECO",
+        "tempo": "5 anos",
+        "periodo": "integral"
+    }
+]
